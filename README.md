@@ -4,11 +4,11 @@
 - University Roll No.: 1802900068
 - Branch: Civil Engineering 
 - Section: B
-- Preferred Programming Language: C++/Java/Python
+- Preferred Programming Language: C++
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/YourLeetCodeUserName/)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/HackerRankUserName)
+- LeetCode: [Ravi_Prasad](https://leetcode.com/YourLeetCodeUserName/)
+- HackerRank: [Ravi_Prasad](https://www.hackerrank.com/HackerRankUserName)
 
 ## Placement Module
 1. [DS I](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I)
